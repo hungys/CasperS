@@ -7,6 +7,10 @@ The supercharged Casper theme for [Ghost](https://github.com/TryGhost/Ghost).
 
 **Casper S** is the supercharged Casper theme, which is forked from Ghost's default theme. Inspired from my previously favorite theme [Odin](https://github.com/h4t0n/odin), Casper S is built based on vanilla [Casper](https://github.com/TryGhost/Casper) of Ghost 1.x, and several useful features for geeks, hackers and developers are added.
 
+![](assets/screenshot-1.png)
+
+![](assets/screenshot-2.png)
+
 ## Features
 
 * Vanilla Casper 2.1.1 style
