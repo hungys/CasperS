@@ -20,10 +20,6 @@ The supercharged Casper theme for [Ghost](https://github.com/TryGhost/Ghost).
 * [Prism](http://prismjs.com)-powered syntax highlight
 * Social links with [Simple Icons](https://simpleicons.org) integration
 
-## Demo
-
-I am using this theme for my personal blog at [hungys.xyz](https://hungys.xyz).
-
 # Installation
 
 Just like any themes for Ghost, clone or download the content of repo and put them in `content/themes/` folder under your Ghost installation.
